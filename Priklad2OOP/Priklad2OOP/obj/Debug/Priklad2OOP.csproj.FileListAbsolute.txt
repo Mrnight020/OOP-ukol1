@@ -1,0 +1,11 @@
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\bin\Debug\Priklad2OOP.exe.config
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\bin\Debug\Priklad2OOP.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\bin\Debug\Priklad2OOP.pdb
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\obj\Debug\Priklad2OOP.csproj.AssemblyReference.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\obj\Debug\Priklad2OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\obj\Debug\Priklad2OOP.Form1.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\obj\Debug\Priklad2OOP.Properties.Resources.resources
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\obj\Debug\Priklad2OOP.csproj.GenerateResource.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\obj\Debug\Priklad2OOP.csproj.CoreCompileInputs.cache
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\obj\Debug\Priklad2OOP.exe
+C:\Users\A\OneDrive\Dokumenty\3.Ročník\Priklad2OOP\Priklad2OOP\Priklad2OOP\obj\Debug\Priklad2OOP.pdb
